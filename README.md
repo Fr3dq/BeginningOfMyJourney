@@ -1,1 +1,1 @@
-# SimpleStore
+That's my first website that I have made. It is stable and simple coded.
